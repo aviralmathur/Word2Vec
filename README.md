@@ -1,23 +1,23 @@
 # Word2Vec
-#Author: Aviral Mathur
-#Email: aviral.mathur@gmail.com
-#LinkedIn: https://in.linkedin.com/in/aviralmathur
-#This python script has been written to find cosine similarity between any 2 text documents using word2vec
+Author: Aviral Mathur
+Email: aviral.mathur@gmail.com
+LinkedIn: https://in.linkedin.com/in/aviralmathur
+This python script has been written to find cosine similarity between any 2 text documents using word2vec
 
-#For details on word2vec, see
-#https://code.google.com/p/word2vec/
+For details on word2vec, see
+https://code.google.com/p/word2vec/
 
-#I am using an implementation called gensim to develop this code, see here to install gensim
-#https://radimrehurek.com/gensim/install.html
+I am using an implementation called gensim to develop this code, see here to install gensim
+https://radimrehurek.com/gensim/install.html
 
-#For gensim to run you will need to install anaconda and use its python, it can be found here
-#http://continuum.io/downloads
+For gensim to run you will need to install anaconda and use its python, it can be found here
+http://continuum.io/downloads
 
-#Now, the scripts have been developed for the dataset available for the Kaggle challenge at 
-#https://www.kaggle.com/c/crowdflower-search-relevance 
+Now, the scripts have been developed for the dataset available for the Kaggle challenge at 
+https://www.kaggle.com/c/crowdflower-search-relevance 
 
-#The scripts are a modification of scripts found here
-#https://github.com/wendykan/DeepLearningMovies 
+The scripts are a modification of scripts found here
+https://github.com/wendykan/DeepLearningMovies 
 
 Now, to run these scripts do the following:- 
 
