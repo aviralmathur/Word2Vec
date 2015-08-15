@@ -2,6 +2,7 @@
 Author: Aviral Mathur
 Email: aviral.mathur@gmail.com
 LinkedIn: https://in.linkedin.com/in/aviralmathur
+
 This python script has been written to find cosine similarity between any 2 text documents using word2vec
 
 For details on word2vec, see
