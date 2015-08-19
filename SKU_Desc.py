@@ -105,7 +105,7 @@ if __name__ == '__main__':
     	logging.basicConfig(format='%(asctime)s : %(levelname)s : %(message)s', level=logging.INFO)
 	
 	num_features = 300    # Word vector dimensionality
-	model = gensim.models.Word2Vec.load('300features_40minwords_10context')
+	model = gensim.models.Word2Vec.load('300features_40minwords_10_SKU')
 	print "Creating average feature vecs for training skucollection"
 
     	trainDataVecs = getAvgFeatureVecs( getCleanTrainReviews(train), model, num_features )
